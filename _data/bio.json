@@ -13,8 +13,8 @@
     ]
   },
   "interests": [
-    { "name": "Data Analytics" },
-    { "name": "Travelling" },
+    { "name": "Networks" },
+    { "name": "Traveling" },
     { "name": "Building Computers" },
     { "name": "Game Modding" },
     { "name": "Gaming" }
@@ -28,8 +28,17 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Information Technology Management (expected Graduation: Fall 2024)",
-      "studyType": "B.B.A.",
+      "area": "Information Systems (accepted into the program: Spring 2024)",
+      "studyType": "Master of Science",
+      "startDate": "2024",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Information Technology Management (expected graduation: Fall 2024)",
+      "studyType": "Bachelor of Business Administration",
       "startDate": "2023",
       "endDate": "Present",
       "courses": [
@@ -37,8 +46,8 @@
     },
     {
       "institution": "Windward Community College, Kaneohe, HI",
-      "area": "Natural Sciences in Engineering",
-      "studyType": "A.S.",
+      "area": "Engineering",
+      "studyType": "Associate of Science",
       "startDate": "2021",
       "endDate": "2023",
       "courses": [
@@ -46,6 +55,14 @@
     }
   ],
   "work": [
+    {
+      "company": "ITM 352 Programming Application Systems",
+      "position": "Teacher's Assitant",
+      "website": "https://dport96.github.io/ITM352/",
+      "startDate": "2024",
+      "endDate": "Present",
+      "summary": "Evaluated assignments, produced instructional video content, and provided tutoring to students."
+    },
     {
       "company": "Target Corporation",
       "position": "General Merchandise Team Member",
@@ -67,14 +84,16 @@
     {
       "organization": "Kaneohe Aikido Club",
       "position": "Instructor and Board Member",
-      "startDate": "2015",
+      "startDate": "2016",
       "endDate": "Present"
+      "summary": "Instructed children and young adults in the principles of self-defense techniques and physical fitness."
     },
     {
       "organization": "Phi Theta Kappa Honor Society",
       "position": "Vice President of Leadership",
       "startDate": "2021",
       "endDate": "2022"
+      "summary": "Coordinated and executed a Christmas gift drive benefiting more than 200 children."
     },
     {
       "organization": "St. Ann Church",
