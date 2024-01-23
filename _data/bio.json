@@ -19,6 +19,12 @@
     { "name": "Game Modding" },
     { "name": "Gaming" }
   ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C++", "Javascript" ]
+    }
+  ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
