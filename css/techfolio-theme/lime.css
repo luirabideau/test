@@ -6,9 +6,9 @@
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
   --tf-green1: #0e380e;
-  --tf-green2: #0e380e;
-  --tf-green3: #0e380e;
-  --tf-green4: #0e380e;
+  --tf-green2: #e0da2f;
+  --tf-green3: #dea923;
+  --tf-green4: #233cde;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-green1);
   --tf-pill-bg: var(--tf-green3);
